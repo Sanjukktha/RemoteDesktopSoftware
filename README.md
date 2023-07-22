@@ -1,1 +1,1 @@
-# RemoteDesktopSoftware
+Remote Desktop Protocol (RDP) allows a client to interconnect with the server. With RDP protocol, applications can be run on the server from the remote client. A security enriched approach is implemented using RDP protocol.
